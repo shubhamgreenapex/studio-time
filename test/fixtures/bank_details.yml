@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bank_account_number: MyString
+  bsb: MyString
+  sort_code: MyString
+  routing_number: MyString
+  payout_detail: one
+
+two:
+  bank_account_number: MyString
+  bsb: MyString
+  sort_code: MyString
+  routing_number: MyString
+  payout_detail: two

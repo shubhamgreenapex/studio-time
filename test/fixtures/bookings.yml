@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 1.5
+  date: 2019-09-05 17:35:25
+  start_time: MyString
+  end_time: MyString
+  studio: one
+
+two:
+  price: 1.5
+  date: 2019-09-05 17:35:25
+  start_time: MyString
+  end_time: MyString
+  studio: two
